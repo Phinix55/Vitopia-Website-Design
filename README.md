@@ -37,19 +37,19 @@ Welcome to the **official landing page** of **VITopia**, the annual cultural fes
 ## 📸 **Screenshots**
 
 ### **Event Schedule Section**  
-![Event Schedule](https://via.placeholder.com/800x400.png?text=Event+Schedule+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1vKhXgBfz_yQSZDHzvJlvIUKtNabel_4p)
 A clean, simple view of the event schedule with easy-to-read blocks for each event.
 
 ### **Guest Speakers Section**  
-![Guest Speakers](https://via.placeholder.com/800x400.png?text=Guest+Speakers+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=14HOCRC582j9N5zPFR14IR2P7KS0XmRGT)
 Guest speaker cards showcasing images, names, and roles.
 
 ### **VITopia App Section**  
-![App Section](https://via.placeholder.com/800x400.png?text=VITopia+App+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1dXF-NKzLLHLP1z8gTsPUqJaLSlRkls0E)
 Visual representation of the app and download options.
 
 ### **Contact Section**  
-![Contact Section](https://via.placeholder.com/800x400.png?text=Contact+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1eyeQqpP1ycWGvFuHFUzhf0Zbisq_BhKQ)
 A simple, intuitive contact form for inquiries.
 
 ---
